@@ -37,3 +37,6 @@ Se creo un Git Colaborativo y estamos utilizando la metodologia Scrum, donde tod
  - Se contara con la Api de google places
  - Podras subir tu foto
  - Compartir en facebook, Twitter y en google+
+ 
+ 
+ Proyecto hecho para Laboratoria
