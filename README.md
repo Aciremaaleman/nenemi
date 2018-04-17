@@ -25,7 +25,7 @@ Se creo un Git Colaborativo y estamos utilizando la metodologia Scrum, donde tod
 
 ¿Que Api estamos utilizando?
 
- - Google places
+ - Google maps
  - Firebase
 
 ¿Que se presentaran el viernes?
