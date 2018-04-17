@@ -2,7 +2,7 @@
 
 ![](assets/images/logo-nenemi.png)
 
-https://user-images.githubusercontent.com/32856885/38873594-c2104c8a-421b-11e8-9748-0c7b6de671e3.png
+![](https://user-images.githubusercontent.com/32856885/38873594-c2104c8a-421b-11e8-9748-0c7b6de671e3.png)
 
 Porque Nenemi...
 
